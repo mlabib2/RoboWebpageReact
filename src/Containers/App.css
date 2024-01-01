@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    src: url('./SEGA.TTF') format('truetype'); /* Adjust the path if your CSS file is in a subdirectory */
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1 {
+    font-family: 'SEGA LOGO FONT', sans-serif; /* Fallback font */
+}
+
+
